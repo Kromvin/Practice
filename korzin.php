@@ -32,7 +32,7 @@ else:
           <span class="cart1440-text"><span>Сумма заказа:</span></span>
           <span class="cart1440-text02"><span>1 450 ₽</span></span>
           <img
-            src="public4/external/rectangle821110-9fec-200h.png"
+            src="pbl/public4/external/rectangle821110-9fec-200h.png"
             alt="Rectangle821110"
             class="cart1440-rectangle821"
           />
@@ -41,7 +41,7 @@ else:
             <div class="cart-container"></div>
           <div class="cart1440-group220">
             <img
-              src="public4/external/rectangle521111-uq6-200h.png"
+              src="pbl/public4/external/rectangle521111-uq6-200h.png"
               alt="Rectangle521111"
               class="cart1440-rectangle52"
             />
@@ -52,7 +52,7 @@ else:
             <div class="cart1440-group338">
               <div class="cart1440-group280">
                 <img
-                  src="public4/external/ellipse101112-bsa8-200h.png"
+                  src="pbl/public4/external/ellipse101112-bsa8-200h.png"
                   alt="Ellipse101112"
                   class="cart1440-ellipse10"
                 />
@@ -63,7 +63,7 @@ else:
             <div class="cart1440-group339">
               <div class="cart1440-group281">
                 <img
-                  src="public4/external/ellipse101113-3xm5-200h.png"
+                  src="pbl/public4/external/ellipse101113-3xm5-200h.png"
                   alt="Ellipse101113"
                   class="cart1440-ellipse101"
                 />
@@ -74,7 +74,7 @@ else:
             <div class="cart1440-group340">
               <div class="cart1440-group2811">
                 <img
-                  src="public4/external/ellipse101113-95q9-200h.png"
+                  src="pbl/public4/external/ellipse101113-95q9-200h.png"
                   alt="Ellipse101113"
                   class="cart1440-ellipse102"
                 />
@@ -82,13 +82,13 @@ else:
               </div>
               <span class="cart1440-text27"><span>Заказ принят</span></span>
             </div>
-            <img src="public4/external/line11113-0yrg.svg" alt="Line11113" class="cart1440-line1" />
-            <img src="public/external/line21113-fpns.svg" alt="Line21113" class="cart1440-line2" />
+            <img src="pbl/public4/external/line11113-0yrg.svg" alt="Line11113" class="cart1440-line1" />
+            <img src="pbl/public/external/line21113-fpns.svg" alt="Line21113" class="cart1440-line2" />
           </div>
           <span class="cart1440-text29"><span>Shayrmen</span></span>
           <span class="cart1440-text31"><span>Лучшее желудку!</span></span>
           <img
-            src="public4/external/image11225-n7cz-600w.png"
+            src="pbl/public4/external/image11225-n7cz-600w.png"
             alt="IMAGE11225"
             class="cart1440-image1"
           />
@@ -108,74 +108,74 @@ else:
               <span class="cart1440-text47"><span>Остались вопросы? А мы всегда на связи: </span></span>
               <span class="cart1440-text49"><span>Написать нам</span></span>
               <img
-                src="public4/external/rectangle674992-6op-200h.png"
+                src="pbl/public4/external/rectangle674992-6op-200h.png"
                 alt="Rectangle674992"
                 class="cart1440-rectangle67"
               />
               <img
-                src="public4/external/rectangle684993-pvue-200h.png"
+                src="pbl/public4/external/rectangle684993-pvue-200h.png"
                 alt="Rectangle684993"
                 class="cart1440-rectangle68"
               />
               <img
-                src="public4/external/rectangle694994-azan-200h.png"
+                src="pbl/public4/external/rectangle694994-azan-200h.png"
                 alt="Rectangle694994"
                 class="cart1440-rectangle69"
               />
               <img
-                src="public4/external/rectangle704995-mnyr-200h.png"
+                src="pbl/public4/external/rectangle704995-mnyr-200h.png"
                 alt="Rectangle704995"
                 class="cart1440-rectangle70"
               />
               <img
-                src="public4/external/rectangle714996-l7zv-200h.png"
+                src="pbl/public4/external/rectangle714996-l7zv-200h.png"
                 alt="Rectangle714996"
                 class="cart1440-rectangle71"
               />
               <img
-                src="public4/external/rectangle724997-4wve-200h.png"
+                src="pbl/public4/external/rectangle724997-4wve-200h.png"
                 alt="Rectangle724997"
                 class="cart1440-rectangle72"
               />
               <img
-                src="public4/external/rectangle744998-oc49-300w.png"
+                src="pbl/public4/external/rectangle744998-oc49-300w.png"
                 alt="Rectangle744998"
                 class="cart1440-rectangle74"
               />
               <span class="cart1440-text51"><span>8 999 999-55-66</span></span>
               <img
-                src="public4/external/image174910-4dyh-200h.png"
+                src="pbl/public4/external/image174910-4dyh-200h.png"
                 alt="image174910"
                 class="cart1440-image17"
               />
               <img
-                src="public4/external/image184910-gx8b-200h.png"
+                src="pbl/public4/external/image184910-gx8b-200h.png"
                 alt="image184910"
                 class="cart1440-image18"
               />
               <img
-                src="public4/external/image214910-b9o-200h.png"
+                src="pbl/public4/external/image214910-b9o-200h.png"
                 alt="image214910"
                 class="cart1440-image21"
               />
               <img
-                src="public4/external/image224910-y4pi-200h.png"
+                src="pbl/public4/external/image224910-y4pi-200h.png"
                 alt="image224910"
                 class="cart1440-image22"
               />
               <img
-                src="public4/external/image194910-1s8-200h.png"
+                src="pbl/public4/external/image194910-1s8-200h.png"
                 alt="image194910"
                 class="cart1440-image19"
               />
               <img
-                src="public4/external/image204910-2kup-200h.png"
+                src="pbl/public4/external/image204910-2kup-200h.png"
                 alt="image204910"
                 class="cart1440-image20"
               />
               <div class="cart1440-group266">
                 <img
-                  src="public4/external/rectangle754910-0grs.svg"
+                  src="pbl/public4/external/rectangle754910-0grs.svg"
                   alt="Rectangle754910"
                   class="cart1440-rectangle75"
                 />
