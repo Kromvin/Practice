@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сайт для курьера</title>
+</head>
+<body>
+    <h1>Информация о заказах</h1>
+
+    <?php
+    // Подключение к базе данных
+    $servername = "localhost"; // адрес сервера базы данных
+    $username = "username"; // ваш логин для доступа к базе данных PhpMyAdmin
+    $password = "password"; // ваш пароль для доступа к базе данных PhpMyAdmin
+    $dbname = "myDB"; // имя вашей базы данных в PhpMyAdmin
+
+    // Создание соединения с базой данных
+    $conn = new mysqli($servername, $username, $password, $dbname);
+
+    // Проверка соединения
+    if ($conn->connect_error) {
+        die("Ошибка подключения к базе данных: " . $conn->connect_error);
+    }
+
+    // Запрос к базе данных для получения информации о заказах
+    $sql = "SELECT * FROM orders";
+    $result = $conn->query($sql);
+
+    if ($result->num_rows > 0) {
+        // Вывод информации о заказах
+        while($row = $result->fetch_assoc()) {
+            echo "Заказ: " . $row["items"]. " - Адрес: " . $row["address"]. " - Цена: " . $row["price"]. "<br>";
+        }
+    } else {
+        echo "Нет информации о заказах";
+    }
+
+    // Закрытие соединения с базой данных
+    $conn->close();
+    ?>
+
+</body>
+</html>
