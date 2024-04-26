@@ -40,10 +40,10 @@ else:
                 ></div
               ><div class="homepage21460-group339"
                 ><img
-                  src="public3/external/image551364-xhk5-200h.png"
+                  src="pbl/public3/external/image551364-xhk5-200h.png"
                   alt="image551364"
                   class="homepage21460-image55" /><img
-                  src="public3/external/exclude1365-x5cu.svg"
+                  src="pbl/public3/external/exclude1365-x5cu.svg"
                   alt="Exclude1365"
                   class="homepage21460-exclude" /></div></div
             ><div class="homepage21460-group223"
@@ -53,15 +53,15 @@ else:
                   ><span>Шашлык XXXL</span></span
                 ></div
               ><img
-                src="public3/external/exclude5728-89pm.svg"
+                src="pbl/public3/external/exclude5728-89pm.svg"
                 alt="Exclude5728"
                 class="homepage21460-exclude01" /><div
                 class="homepage21460-group3391"
                 ><img
-                  src="public3/external/image385736-18es-200h.png"
+                  src="pbl/public3/external/image385736-18es-200h.png"
                   alt="image385736"
                   class="homepage21460-image38" /><img
-                  src="public3/external/exclude5733-m8v.svg"
+                  src="pbl/public3/external/exclude5733-m8v.svg"
                   alt="Exclude5733"
                   class="homepage21460-exclude02" /></div></div
             ><div class="homepage21460-group224"
@@ -72,10 +72,10 @@ else:
                 ></div
               ><div class="homepage21460-group340"
                 ><img
-                  src="public3/external/image501359-c9g-200w.png"
+                  src="pbl/public3/external/image501359-c9g-200w.png"
                   alt="image501359"
                   class="homepage21460-image50" /><img
-                  src="public3/external/exclude1360-4loe.svg"
+                  src="pbl/public3/external/exclude1360-4loe.svg"
                   alt="Exclude1360"
                   class="homepage21460-exclude03" /></div></div
             ><div class="homepage21460-group225"
@@ -93,10 +93,10 @@ else:
               ><span class="homepage21460-text024"><span>С курицей</span></span
               ><div class="homepage21460-group338"
                 ><img
-                  src="public3/external/image54655-uach-300h.png"
+                  src="pbl/public3/external/image54655-uach-300h.png"
                   alt="image54655"
                   class="homepage21460-image54" /><img
-                  src="public3/external/exclude634-xi3.svg"
+                  src="pbl/public3/external/exclude634-xi3.svg"
                   alt="Exclude634"
                   class="homepage21460-exclude04" /></div
               ><span type="button" class="homepage21460-button Button"> <a href= "register.php">В корзину</a></span
@@ -111,10 +111,10 @@ else:
               ><span class="homepage21460-text030">С говядиной</span
               ><div class="homepage21460-group33801"
                 ><img
-                  src="public3/external/image57661-ypq6-300h.png"
+                  src="pbl/public3/external/image57661-ypq6-300h.png"
                   alt="image57661"
                   class="homepage21460-image57" /><img
-                  src="public3/external/exclude639-836.svg"
+                  src="pbl/public3/external/exclude639-836.svg"
                   alt="Exclude639"
                   class="homepage21460-exclude05" /></div
               ><button type="button" class="homepage21460-button01 Button" onclick=Vkorziny()
@@ -130,10 +130,10 @@ else:
               ><span class="homepage21460-text036">Смешанная</span
               ><div class="homepage21460-group33802"
                 ><img
-                  src="public3/external/image55657-4966-300h.png"
+                  src="pbl/public3/external/image55657-4966-300h.png"
                   alt="image55657"
                   class="homepage21460-image551" /><img
-                  src="public3/external/exclude644-iy29.svg"
+                  src="pbl/public3/external/exclude644-iy29.svg"
                   alt="Exclude644"
                   class="homepage21460-exclude06" /></div
               ><button type="button" class="homepage21460-button02 Button" onclick=Vkorziny()
@@ -149,10 +149,10 @@ else:
               ><span class="homepage21460-text042">Шаурма XXXL</span
               ><div class="homepage21460-group33803"
                 ><img
-                  src="public3/external/image56659-1f0s-300h.png"
+                  src="pbl/public3/external/image56659-1f0s-300h.png"
                   alt="image56659"
                   class="homepage21460-image56" /><img
-                  src="public3/external/exclude649-po4r.svg"
+                  src="pbl/public3/external/exclude649-po4r.svg"
                   alt="Exclude649"
                   class="homepage21460-exclude07" /></div
               ><button type="button" class="homepage21460-button03 Button" onclick=Vkorziny()
@@ -180,10 +180,10 @@ else:
                 ></div
               ><div class="homepage21460-group33804"
                 ><img
-                  src="public3/external/image39363-n756-300w.png"
+                  src="pbl/public3/external/image39363-n756-300w.png"
                   alt="image39363"
                   class="homepage21460-image39" /><img
-                  src="public3/external/exclude359-pbu7.svg"
+                  src="pbl/public3/external/exclude359-pbu7.svg"
                   alt="Exclude359"
                   class="homepage21460-exclude08" /></div>
                   </div
@@ -192,10 +192,10 @@ else:
               ><span class="homepage21460-text056">Из говядина</span
               ><div class="homepage21460-group33805"
                 ><img
-                  src="public3/external/image40380-xtsg-300w.png"
+                  src="pbl/public3/external/image40380-xtsg-300w.png"
                   alt="image40380"
                   class="homepage21460-image40" /><img
-                  src="public3/external/exclude366-va6e.svg"
+                  src="pbl/public3/external/exclude366-va6e.svg"
                   alt="Exclude366"
                   class="homepage21460-exclude09" /></div
               ><button type="button" class="homepage21460-button05 Button" onclick=Vkorziny()>В корзину</button
@@ -210,10 +210,10 @@ else:
               ><span class="homepage21460-text062">Из баранина</span
               ><div class="homepage21460-group33806"
                 ><img
-                  src="public3/external/image41382-uvzk-300h.png"
+                  src="pbl/public3/external/image41382-uvzk-300h.png"
                   alt="image41382"
                   class="homepage21460-image41" /><img
-                  src="public3/external/exclude371-q3yw.svg"
+                  src="pbl/public3/external/exclude371-q3yw.svg"
                   alt="Exclude371"
                   class="homepage21460-exclude10" /></div
 
@@ -229,10 +229,10 @@ else:
               ><span class="homepage21460-text068">Кибер Люля</span
               ><div class="homepage21460-group33807"
                 ><img
-                  src="public3/external/image42384-w5d9-300h.png"
+                  src="pbl/public3/external/image42384-w5d9-300h.png"
                   alt="image42384"
                   class="homepage21460-image42" /><img
-                  src="public3/external/exclude376-0fk.svg"
+                  src="pbl/public3/external/exclude376-0fk.svg"
                   alt="Exclude376"
                   class="homepage21460-exclude11" /></div
 
@@ -247,10 +247,10 @@ else:
             ></div
           ><div class="homepage21460-group3393"
             ><img
-              src="public3/external/image431354-309h-200h.png"
+              src="pbl/public3/external/image431354-309h-200h.png"
               alt="image431354"
               class="homepage21460-image43" /><img
-              src="public3/external/exclude1355-0qjo.svg"
+              src="pbl/public3/external/exclude1355-0qjo.svg"
               alt="Exclude1355"
               class="homepage21460-exclude12" /></div
           ><div class="homepage21460-sok"
@@ -260,10 +260,10 @@ else:
               ><span class="homepage21460-text076">Морс лесные ягоды</span
               ><div class="homepage21460-group33808"
                 ><img
-                  src="public3/external/image433107-ds6i-300h.png"
+                  src="pbl/public3/external/image433107-ds6i-300h.png"
                   alt="image433107"
                   class="homepage21460-image431" /><img
-                  src="public3/external/exclude388-bqnv.svg"
+                  src="pbl/public3/external/exclude388-bqnv.svg"
                   alt="Exclude388"
                   class="homepage21460-exclude13" /></div
 
@@ -280,10 +280,10 @@ else:
               ><span class="homepage21460-text082">Сок</span
               ><div class="homepage21460-group33809"
                 ><img
-                  src="public3/external/image443109-lvh-300w.png"
+                  src="pbl/public3/external/image443109-lvh-300w.png"
                   alt="image443109"
                   class="homepage21460-image44" /><img
-                  src="public3/external/exclude393-0bp6.svg"
+                  src="pbl/public3/external/exclude393-0bp6.svg"
                   alt="Exclude393"
                   class="homepage21460-exclude14" /></div
               ><button type="button" class="homepage21460-button09 Button" onclick=Vkorziny()
@@ -299,10 +299,10 @@ else:
               ><span class="homepage21460-text088">Чай</span
               ><div class="homepage21460-group33810"
                 ><img
-                  src="public3/external/image453111-ffim-300h.png"
+                  src="pbl/public3/external/image453111-ffim-300h.png"
                   alt="image453111"
                   class="homepage21460-image45" /><img
-                  src="public3/external/exclude398-0rbp.svg"
+                  src="pbl/public3/external/exclude398-0rbp.svg"
                   alt="Exclude398"
                   class="homepage21460-exclude15" /></div
               ><button type="button" class="homepage21460-button10 Button" onclick=Vkorziny()
@@ -316,12 +316,12 @@ else:
               ><span class="homepage21460-text092">120 ₽</span
               ><span class="homepage21460-text094">Кофе</span
               ><img
-                src="public3/external/image583041-agm-300h.png"
+                src="pbl/public3/external/image583041-agm-300h.png"
                 alt="image583041"
                 class="homepage21460-image58"
               /><div class="homepage21460-group33811"
                 ><img
-                  src="public3/external/exclude3022-zujr.svg"
+                  src="pbl/public3/external/exclude3022-zujr.svg"
                   alt="Exclude3022"
                   class="homepage21460-exclude16" /></div
 
@@ -338,7 +338,7 @@ else:
                 </button
               ><span class="homepage21460-text100">0</span
               ><img
-                src="public3/external/rectangle531299-dg2h-200w.png"
+                src="pbl/public3/external/rectangle531299-dg2h-200w.png"
                 alt="Rectangle531299"
                 class="homepage21460-rectangle53" /></div
             ><span class="homepage21460-text101"></span
@@ -368,10 +368,10 @@ else:
                   ></span
                 ><div class="homepage21460-group33812"
                 ><img
-                  src="public3/external/image3538-8yt-300h.png"
+                  src="pbl/public3/external/image3538-8yt-300h.png"
                   alt="image3538"
                   class="homepage21460-image35" /><img
-                  src="public3/external/exclude36-mlma.svg"
+                  src="pbl/public3/external/exclude36-mlma.svg"
                   alt="Exclude36"
                   class="homepage21460-exclude17" /></div></div
             ><div class="homepage21460-group3401"
@@ -383,10 +383,10 @@ else:
                   ><span>шашлык из говядины(300 гр.), лист салата </span></span
                 ><div class="homepage21460-group33813"
                 ><img
-                  src="public3/external/image36320-p80a-300h.png"
+                  src="pbl/public3/external/image36320-p80a-300h.png"
                   alt="image36320"
                   class="homepage21460-image36" /><img
-                  src="public3/external/exclude316-6zkn.svg"
+                  src="pbl/public3/external/exclude316-6zkn.svg"
                   alt="Exclude316"
                   class="homepage21460-exclude18" /></div></div
             ><div class="homepage21460-group342"
@@ -398,10 +398,10 @@ else:
                   ><span>шашлык из баранины(300 гр.),петрушка,томат</span></span
                 ><div class="homepage21460-group341"
                 ><img
-                  src="public3/external/image37323-ci8t-300h.png"
+                  src="pbl/public3/external/image37323-ci8t-300h.png"
                   alt="image37323"
                   class="homepage21460-image37" /><img
-                  src="public3/external/exclude337-jeph.svg"
+                  src="pbl/public3/external/exclude337-jeph.svg"
                   alt="Exclude337"
                   class="homepage21460-exclude19" /></div></div
             ><div class="homepage21460-group344">
@@ -409,8 +409,8 @@ else:
               <span class="homepage21460-text135">Шашлык XXXL</span>
               <button type="button" class="homepage21460-button16 Button">В корзину</button>
               <div class="homepage21460-group343">
-                  <img src="public3/external/image38343-wv5o-300h.png" alt="image38343" class="homepage21460-image381">
-                  <img src="public3/external/exclude344-e1m.svg" alt="Exclude344" class="homepage21460-exclude20">
+                  <img src="pbl/public3/external/image38343-wv5o-300h.png" alt="image38343" class="homepage21460-image381">
+                  <img src="pbl/public3/external/exclude344-e1m.svg" alt="Exclude344" class="homepage21460-exclude20">
                   <div class="homepage21460-group252">
                       <span class="homepage21460-text137"><span>Ваааай бомба вообще,шашлык из баранины,говядины,курицы(1 кг.),там лучёк,перчик чили,зелень-мелень,кукуруза есть,соус пушка ваааще</span></span>
                   </div>
