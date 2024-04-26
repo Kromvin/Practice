@@ -57,7 +57,7 @@ if($numrows==0)
                 </div>
               </div>
             </div>
-            <img alt="IMAGE11645" src="public2/external/image11645-968g-700w.png" class="login3-register-image1">
+            <img alt="IMAGE11645" src="pbl/public2/external/image11645-968g-700w.png" class="login3-register-image1">
           </div>
           <div class="login3-register-group44">
             <div class="login3-register-group34">
