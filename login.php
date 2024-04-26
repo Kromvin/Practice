@@ -66,7 +66,7 @@ while($row=mysqli_fetch_assoc($query))
                             </div>
                         </div>
                     </div>
-                    <img alt="IMAGE11650" src="public/external/image11650-n6fk-700w.png" class="login3-register-image1">
+                    <img alt="IMAGE11650" src="pbl/public/external/image11650-n6fk-700w.png" class="login3-register-image1">
                 </div>
                 
             </div>
