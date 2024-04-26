@@ -11,25 +11,25 @@
 
     <?php
     
-    $servername = "localhost"; // адрес сервера базы данных
-    $username = "username"; // ваш логин для доступа к базе данных PhpMyAdmin
-    $password = "password"; // ваш пароль для доступа к базе данных PhpMyAdmin
-    $dbname = "myDB"; // имя вашей базы данных в PhpMyAdmin
+    $servername = "localhost";
+    $username = "username";
+    $password = "password"; 
+    $dbname = "myDB"; 
 
     
     $conn = new mysqli($servername, $username, $password, $dbname);
 
-    // Проверка соединения
+    
     if ($conn->connect_error) {
         die("Ошибка подключения к базе данных: " . $conn->connect_error);
     }
 
-    // Запрос к базе данных для получения информации о заказах
+   
     $sql = "SELECT * FROM orders";
     $result = $conn->query($sql);
 
     if ($result->num_rows > 0) {
-        // Вывод информации о заказах
+        
         while($row = $result->fetch_assoc()) {
             echo "Заказ: " . $row["items"]. " - Адрес: " . $row["address"]. " - Цена: " . $row["price"]. "<br>";
         }
